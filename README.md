@@ -46,7 +46,7 @@
 
 
 
-[![](https://visitcount.itsvg.in/api?id=unisted02&label=376&color=2&icon=6&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=unisted02&label=Profile%20Views&color=2&icon=6&pretty=false)](https://visitcount.itsvg.in)
 
 <!--
 **unlisted02/unlisted02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
